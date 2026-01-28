@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Keshav!
 
-<!--
-**keshava-00/keshava-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  **PROGRAMMER | JavaScript Developer | UI/UX Enthusiast** 👨‍💻🔥
 
-Here are some ideas to get you started:
+🚀 Aspiring Frontend Developer  
+🎨 UI/UX (Figma) Learner  
+🧠 Tech & AI Content Creator  
+🇮🇳 From India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me  
+
+- 💻 Learning **JavaScript, HTML, CSS, PHP (Basics) & SQL (Basics)**  
+- 🎯 Goal: Become a **job-ready developer in 2 months**  
+- 🎨 Strong interest in **UI/UX design & clean interfaces**  
+- 📚 Building **small projects daily**  
+- ✍️ Blogging & content creation (English + Kannada)  
+- 🔥 Consistent learner with a growth mindset  
+
+---
+
+## 🛠️ Skills  
+
+### 💻 Programming  
+- JavaScript  
+- HTML5  
+- CSS3  
+- PHP (Basics)  
+- SQL (Basics)  
+
+### 🎨 Design  
+- Figma (UI/UX)  
+- Color Theory  
+- Typography  
+
+### 🧰 Tools  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📌 Currently Learning  
+
+- Advanced JavaScript  
+- DOM Manipulation  
+- JavaScript Mini Projects  
+- UI/UX Case Studies  
+
+---
+
+## 🔗 Connect With Me  
+
+- 💼 GitHub: https://github.com/keshav-00
+- 📸 Instagram: https://www.instagram.com/keshav00_k
+- ✍️ Blog: https://earnwithaiworld.blogspot.com/
+-
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## ✨ Quote I Believe In  
+
+> **"Consistency creates programmers, not motivation."** 💻🔥  
+
+⭐ Thanks for visiting my profile — follow my journey!
