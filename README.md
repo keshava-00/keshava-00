@@ -1,42 +1,47 @@
-# 👋 Hi, I'm Keshav!
+<h1 align="center">Hi 👋, I'm Keshav</h1>
 
-##  **PROGRAMMER | JavaScript Developer | UI/UX Enthusiast** 👨‍💻🔥
+<h3 align="center">💥 PROGRAMMER | JavaScript Developer | UI/UX Enthusiast 👨‍💻</h3>
 
-🚀 Aspiring Frontend Developer  
-🎨 UI/UX (Figma) Learner  
-🧠 Tech & AI Content Creator  
-🇮🇳 From India  
-
----
-
-## 🙋‍♂️ About Me  
-
-- 💻 Learning **JavaScript, HTML, CSS, PHP (Basics) & SQL (Basics)**  
-- 🎯 Goal: Become a **job-ready developer in 2 months**  
-- 🎨 Strong interest in **UI/UX design & clean interfaces**  
-- 📚 Building **small projects daily**  
-- ✍️ Blogging & content creation (English + Kannada)  
-- 🔥 Consistent learner with a growth mindset  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;JavaScript+Learner;UI%2FUX+Design+Enthusiast;Building+Projects+Daily&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🛠️ Skills  
+## 🚀 About Me  
+
+- 💻 Passionate **Programmer** learning modern web technologies  
+- 🎯 Goal: **Become a job-ready developer in 2 months**  
+- 🎨 Strong interest in **UI/UX & clean user interfaces**  
+- 📚 Building **JavaScript mini projects daily**  
+- ✍️ Blogger & content creator (English + Kannada)  
+- 🔥 Believe in consistency over motivation  
+
+---
+
+## 🛠️ Tech Stack  
 
 ### 💻 Programming  
-- JavaScript  
-- HTML5  
-- CSS3  
-- PHP (Basics)  
-- SQL (Basics)  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql" />
+</p>
 
 ### 🎨 Design  
-- Figma (UI/UX)  
-- Color Theory  
-- Typography  
+<p>
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/UI%2FUX-black?style=for-the-badge" />
+</p>
 
 ### 🧰 Tools  
-- Git & GitHub  
-- VS Code  
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode" />
+</p>
 
 ---
 
@@ -44,22 +49,24 @@
 
 - Advanced JavaScript  
 - DOM Manipulation  
-- JavaScript Mini Projects  
+- Real-world JS Projects  
 - UI/UX Case Studies  
 
 ---
 
-## 🔗 Connect With Me  
+## 📊 GitHub Stats  
 
-- 💼 GitHub: https://github.com/keshav-00
-- 📸 Instagram: https://www.instagram.com/keshav00_k
-- ✍️ Blog: https://earnwithaiworld.blogspot.com/
--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-## ✨ Quote I Believe In  
+## ✨ Personal Quote  
 
-> **"Consistency creates programmers, not motivation."** 💻🔥  
+> **“Consistency creates programmers, not motivation.”** 💻🔥  
 
-⭐ Thanks for visiting my profile — follow my journey!
+---
+
+⭐ *Thanks for visiting my profile — follow my journey and growth!*
