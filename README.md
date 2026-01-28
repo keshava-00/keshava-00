@@ -54,11 +54,25 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🔗 Connect With Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+  <a href="https://github.com/keshav-00" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/keshavamurthi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/keshav00_k" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:keshavamurthib00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  💬 Let’s connect, collaborate, and build something amazing together 🚀
 </p>
 
 ---
