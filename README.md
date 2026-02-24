@@ -41,7 +41,7 @@ I believe in consistency, discipline, and writing clean, maintainable code. My g
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/keshava-00  
-- LinkedIn: (add your link here)
+- LinkedIn: linkedin.com/in/keshavamurthi
 
 ---
 
