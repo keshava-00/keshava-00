@@ -13,7 +13,7 @@ I believe in consistency, discipline, and writing clean, maintainable code. My g
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python   
+- **Backend:** Python  
 - **Database:** SQL   
 - **UI/UX:** Figma, Responsive Design  
 - **Problem Solving:** DSA in Python (Daily Practice)
